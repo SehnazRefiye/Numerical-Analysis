@@ -1,6 +1,3 @@
-# Refiye Şehnaz Yıldırım - 171805012
-# Ersu Karpuz - 171805043
-
 import numpy as np
 
 # x
