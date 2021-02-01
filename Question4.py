@@ -1,6 +1,3 @@
-# Refiye Şehnaz Yıldırım - 171805012
-# Ersu Karpuz - 171805043
-
 def f(x):
     return x ** 2
 
