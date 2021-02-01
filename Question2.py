@@ -1,7 +1,3 @@
-# Refiye Şehnaz Yıldırım - 171805012
-# Ersu Karpuz - 171805043
-
-
 # Defining Function
 def f(x):
     return 3 * x**3 + x**2 - x - 5
