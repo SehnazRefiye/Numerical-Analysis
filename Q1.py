@@ -1,4 +1,3 @@
-#Refiye Şehnaz YILDIRIM / 171805012
 import numpy as np
 from sympy import *
 
