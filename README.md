@@ -12,4 +12,4 @@ Question2.py = Use Newton-Raphson Method to find the root to four correct decima
 
 Question3.py = Use finite difference approximations of O(h2) among forward difference (FD), backward difference (BD) and central difference (CD) to compute f'(2.38) and f''(2.38) from the following data: (2.36, 0.85866), (2.27, 0.86289), (2.38, 0.86710), (2.39, 0.87129)
 
-Question4.py = Evaluate integration x^2 with Simpson’s 1/3 rule using two, four, and six panels X1=0, X2=1.
+Question4.py = Evaluate integration x^2 with Simpson’s 1/3 rule using two, four, and six panels x1=0, x2=1.
